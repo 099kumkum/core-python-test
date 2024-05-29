@@ -1,0 +1,17 @@
+'''
+t=(1,2,3,4,5)
+print(t)
+print(type(t))
+print(t[1])
+print(t[-1])
+t1=t[0:2]
+print(t1)
+t2=t[2:]
+print(t2)
+t3=t*2
+print(t3)
+print(len(t))
+print(max(t))
+print(min(t))
+print(list(t))
+'''
